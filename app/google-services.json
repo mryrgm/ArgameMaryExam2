@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "378316873962",
+    "firebase_url": "https://for-4itf-d359f.firebaseio.com",
+    "project_id": "for-4itf-d359f",
+    "storage_bucket": "for-4itf-d359f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378316873962:android:6c801b8201659afb",
+        "android_client_info": {
+          "package_name": "com.argame.maryruth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378316873962-haci83d6vudkn70c8pfnc1j12l1tbfos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.argame.maryruth",
+            "certificate_hash": "615cdd4a5a76efc9b60c314d9f5a107b6bbeb32f"
+          }
+        },
+        {
+          "client_id": "378316873962-qqsou184vphp9skh8ipj3obf2dpsv452.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7TZT_V9WOO02XUHJXy3UD9RAZOZmNhLw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378316873962-qqsou184vphp9skh8ipj3obf2dpsv452.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
